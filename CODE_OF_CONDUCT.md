@@ -1,1 +1,1 @@
-"Contributor Covenant" template
+"Contributor Covenant" template.
